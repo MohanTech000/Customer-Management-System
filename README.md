@@ -1,4 +1,4 @@
-# Nodejs User Management Express EJS MongoDB
+# Nodejs Customer Management Express EJS MongoDB
 
 ## Udates
 
